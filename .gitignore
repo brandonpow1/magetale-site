@@ -5,3 +5,7 @@ _site
 
 ### NPM ###
 /node_modules/
+
+### Ruby ###
+/vendor/
+.bundle/
