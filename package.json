@@ -1,10 +1,20 @@
 {
   "devDependencies": {
+    "postcss": "^8.4.47",
     "postcss-cli": "^11.0.0",
     "tailwindcss": "^3.4.3"
   },
   "dependencies": {
     "autoprefixer": "^10.4.19",
-    "postcss": "^8.4.38"
-  }
+    "flowbite": "^2.5.2"
+  },
+  "name": "magetale-site",
+  "version": "1.0.0",
+  "description": "website for jnumbat's characters",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
